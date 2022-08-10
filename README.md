@@ -13,4 +13,4 @@
 6\request the project in JitPack
 
 
-https://jitpack.io/#Hadesong/mavenTest/v1.0
+ https://jitpack.io/#Hadesong/jitPackTest
